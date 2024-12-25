@@ -179,9 +179,10 @@ body {
 button {
   border-style: none;
   background: linear-gradient(
-    90deg,
+    180deg,
     rgba(119, 85, 255, 1) 0%,
-    rgba(105, 67, 255, 1) 100%
+    rgba(105, 67, 255, 1) 0%,
+    rgba(47, 44, 233, 1) 100%
   );
   color: white;
   max-width: 288px;
